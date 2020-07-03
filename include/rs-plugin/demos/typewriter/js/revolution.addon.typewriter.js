@@ -17,8 +17,8 @@
 	// pause animation
 	jQuery(layer).data('typewriter').pause();
 	
-	// resume animation
-	jQuery(layer).data('typewriter').resume();
+	// main animation
+	jQuery(layer).data('typewriter').main();
 	
 	// retart the animation
 	jQuery(layer).data('typewriter').restart();
@@ -717,7 +717,7 @@
 		
 		/* 
 			API event 
-			jQuery(layer).data('typewriter').resume();
+			jQuery(layer).data('typewriter').main();
 		*/
 		resume: function() {
 

@@ -11332,14 +11332,6 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 
 .heading-block ~ p:not(.lead) { font-size: 15px; }
 
-.heading-block:after {
-	content: '';
-	display: block;
-	margin-top: 30px;
-	width: 40px;
-	border-top: 2px solid #444;
-}
-
 .center .heading-block:after,
 .heading-block.center:after,
 .heading-block.title-center:after { margin: 30px auto 0; }
