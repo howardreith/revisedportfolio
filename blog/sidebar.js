@@ -16,12 +16,11 @@ document.write('\
 \
                     <div class="tab-content clearfix" id="tabs-1">\
                         <div id="popular-post-list-sidebar">\
-\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
-                                        <h4><a href="git-best-practices.html">\
-                                            Understanding Git and Best Practices\
+                                        <h4><a href="breaks.html">\
+                                            How Often Should Programmers Take Breaks?\
                                         </a></h4>\
                                     </div>\
                                 </div>\
@@ -40,7 +39,17 @@ document.write('\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
-                                        <h4><a href="announcing-the-howie-code-blog.html">\
+                                        <h4><a href="git-best-practices.html">\
+                                            Understanding Git and Best Practices\
+                                        </a></h4>\
+                                    </div>\
+                                </div>\
+                            </div>\
+\
+                            <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
+                                        <h4><a href="announcing-the-howie-code-index.html">\
                                             Announcing the Howie Reith Code Blog\
                                         </a></h4>\
                                     </div>\
@@ -54,6 +63,18 @@ document.write('\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
+                                        <h4><a href="breaks.html">\
+                                            How Often Should Programmers Take Breaks?\
+                                        </a></h4>\
+                                    </div>\
+                                    <ul class="entry-meta">\
+                                        <li>August 2, 2020</li>\
+                                    </ul>\
+                                </div>\
+                            </div>\
+                            <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
                                         <h4><a href="git-best-practices.html">\
                                             Understanding Git and Best Practices\
                                         </a></h4>\
@@ -63,6 +84,7 @@ document.write('\
                                     </ul>\
                                 </div>\
                             </div>\
+\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
@@ -79,7 +101,7 @@ document.write('\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
                                         <h4>\
-                                            <a href="announcing-the-howie-code-blog.html">\
+                                            <a href="announcing-the-howie-code-index.html">\
                                                 Announcing the Howie Reith Code Blog\
                                             </a></h4>\
                                     </div>\
