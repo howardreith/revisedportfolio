@@ -16,21 +16,22 @@ document.write('\
 \
                     <div class="tab-content clearfix" id="tabs-1">\
                         <div id="popular-post-list-sidebar">\
-                            <div class="spost clearfix">\
-                                <div class="entry-c">\
-                                    <div class="entry-title">\
-                                        <h4><a href="breaks.html">\
-                                            How Often Should Programmers Take Breaks?\
-                                        </a></h4>\
-                                    </div>\
-                                </div>\
-                            </div>\
 \
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
                                         <h4><a href="understanding-asynchrony.html">\
                                             Understanding Asynchrony in Javascript\
+                                        </a></h4>\
+                                    </div>\
+                                </div>\
+                            </div>\
+\                            \
+                            <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
+                                        <h4><a href="how-to-choose-db.html">\
+                                            How to Choose a Database for Your Web Application\
                                         </a></h4>\
                                     </div>\
                                 </div>\
@@ -49,6 +50,16 @@ document.write('\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
+                                        <h4><a href="breaks.html">\
+                                            How Often Should Programmers Take Breaks?\
+                                        </a></h4>\
+                                    </div>\
+                                </div>\
+                            </div>\
+                            \
+                            <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
                                         <h4><a href="announcing-the-howie-code-index.html">\
                                             Announcing the Howie Reith Code Blog\
                                         </a></h4>\
@@ -60,6 +71,19 @@ document.write('\
                     <div class="tab-content clearfix" id="tabs-2">\
                         <div id="recent-post-list-sidebar">\
                         \
+                          <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
+                                        <h4><a href="how-to-choose-db.html">\
+                                            How to Choose a Database for Your Web Application\
+                                        </a></h4>\
+                                    </div>\
+                                    <ul class="entry-meta">\
+                                        <li>August 10, 2020</li>\
+                                    </ul>\
+                                </div>\
+                            </div>\
+                            \
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
