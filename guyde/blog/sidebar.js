@@ -16,6 +16,17 @@ document.write('\
 \
                     <div class="tab-content clearfix" id="tabs-1">\
                         <div id="popular-post-list-sidebar">\
+                        \
+                        <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
+                                        <h4><a href="nervousness.html">\
+                                            6 Science-Based Ways to Overcome Nervousness\
+                                        </a></h4>\
+                                    </div>\
+                                </div>\
+                            </div>\
+\
                             <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
@@ -49,6 +60,18 @@ document.write('\
                     </div>\
                     <div class="tab-content clearfix" id="tabs-2">\
                         <div id="recent-post-list-sidebar">\
+                        <div class="spost clearfix">\
+                                <div class="entry-c">\
+                                    <div class="entry-title">\
+                                        <h4><a href="nervousness.html">\
+                                            6 Science-Based Ways to Overcome Nervousness\
+                                        </a></h4>\
+                                    </div>\
+                                    <ul class="entry-meta">\
+                                        <li>August 21, 2020</li>\
+                                    </ul>\
+                                </div>\
+                            </div>\
                           <div class="spost clearfix">\
                                 <div class="entry-c">\
                                     <div class="entry-title">\
