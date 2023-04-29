@@ -1,5 +1,5 @@
 // Publishable API key, not cause for alarm
-const stripe = Stripe("pk_test_51MBI4uJfANvMRrMHVTdbSaZyfnlq2B8N0HGo14VWSBuNTJXw6u7y6o7th6vLWbmxT9eO7FyTKonJ5ICMZENDOjjt00RUFhCz8o");
+const stripe = Stripe("pk_live_51MBI4uJfANvMRrMHqBQg0QF41vIlnJUUNDKGtZGlrSm3o8W2nUOEP8PuHX72JYd2ZGELsiWCyftDLto08emKgmyr00J7XoDpMy");
 
 let elements;
 let emailAddress = '';
