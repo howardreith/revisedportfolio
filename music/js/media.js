@@ -3,13 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
-  whyGodWhy: {
-    filename: 'Why God Why',
-    title: 'Why God? Why?',
-    musical: 'Miss Saigon',
-    publishYear: '1989',
-    recordedDate: '05/07/2023'
-  },
+  // whyGodWhy: {
+  //   filename: 'Why God Why',
+  //   title: 'Why God? Why?',
+  //   musical: 'Miss Saigon',
+  //   publishYear: '1989',
+  //   recordedDate: '05/07/2023'
+  // },
   someEnchantedEvening: {
     filename: 'Some Enchanted Evening',
     title: 'Some Enchanted Evening',
