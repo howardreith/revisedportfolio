@@ -92,8 +92,7 @@ function setVideo(videoKey) {
   }
   const video = document.createElement('video');
   video.setAttribute('id', 'video');
-  video.setAttribute('width', '700px');
-  video.setAttribute('height', '400px');
+  video.setAttribute('width', '80%');
   video.setAttribute('controls', 'true');
   videoContainer.appendChild(video)
 
