@@ -108,13 +108,11 @@
                     <p class="text-white t300 ls1 d-none d-sm-block" data-animate="fadeIn" data-delay="400"
                        style="color: white; text-shadow: -1px -1px 0 #000, 3px -1px 0 #000, -1px 1px 0 #000, 3px 3px 0 #000;">
                         Software Engineer, Singer, Writer<br>Boston, MA</p>
+                    <a href="./music" data-animate="fadeIn" data-delay="400"
+                       class="btn bg-transparent btn-outline-primary noleftmargin text-white border-white" style="background-color:transparent">Music Site</a>
                 </div>
             </div>
 
-        </div>
-        <div class="full-screen force-full-screen blurred-img"
-             style="position: fixed; width: 100%; top: 0; left: 0;
-             background-size: cover; background: black url('images/howie-reith.jpg') no-repeat fixed top center;">
         </div>
     </section>
 
@@ -160,7 +158,7 @@
                                 </div>
                                 <div class="entry-content clearfix">
                                     <p class="nobottommargin">A tutorial introducing the functionalities
-                                    of the RDBMS PostgreSQL including joins, indexes, and transactions.</p>
+                                        of the RDBMS PostgreSQL including joins, indexes, and transactions.</p>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +220,8 @@
                 </div>
             </div>
         </div>
-
+    </section>
+    <section>
         <div id="section-about" class="section page-section nomargin clearfix"
              style="background: #EEE url('images/howie-reith-2.jpg') no-repeat center center; background-size: cover; padding: 100px 0">
             <div class="container clearfix">
@@ -273,7 +272,8 @@
                 <div class="video-overlay d-sm-block d-md-none" style="background: rgba(255,255,255,0.9);"></div>
             </div>
         </div>
-
+    </section>
+    <section>
         <div id="section-works" class="section page-section nomargin nobottompadding nobottommargin clearfix"
              style="background: #FFF center right; background-size: cover; padding: 100px 0">
             <div class="heading-block text-center">
@@ -526,19 +526,19 @@
 <script src="js/functions.js"></script>
 
 <script>
-    jQuery(window).scroll(function () {
-        var pixs = jQuery(window).scrollTop(),
-            opacity = pixs / 650,
-            element = jQuery('.blurred-img'),
-            elementHeight = element.outerHeight(),
-            elementNextHeight = jQuery('.content-wrap').find('.page-section').first().outerHeight();
-        if ((elementHeight + elementNextHeight + 50) > pixs) {
-            element.addClass('blurred-image-visible');
-            element.css({'opacity': opacity});
-        } else {
-            element.removeClass('blurred-image-visible');
-        }
-    });
+  jQuery(window).scroll(function () {
+    var pixs = jQuery(window).scrollTop(),
+      opacity = pixs / 650,
+      element = jQuery('.blurred-img'),
+      elementHeight = element.outerHeight(),
+      elementNextHeight = jQuery('.content-wrap').find('.page-section').first().outerHeight();
+    if ((elementHeight + elementNextHeight + 50) > pixs) {
+      element.addClass('blurred-image-visible');
+      element.css({'opacity': opacity});
+    } else {
+      element.removeClass('blurred-image-visible');
+    }
+  });
 </script>
 
 </body>

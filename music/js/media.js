@@ -100,7 +100,7 @@ function setVideo(videoKey) {
   const title = document.getElementById('videoTitle');
   title.innerHTML = mediaKeyMap[videoKey].title;
   const musical = document.getElementById('videoMusical');
-  musical.innerHTML = `From ${mediaKeyMap[videoKey].musical} ${mediaKeyMap[videoKey].publishYear}`;
+  musical.innerHTML = `From ${mediaKeyMap[videoKey].musical} (${mediaKeyMap[videoKey].publishYear})`;
   const recordedOn = document.getElementById('videoRecordedOn');
   recordedOn.innerHTML = `Recorded on ${mediaKeyMap[videoKey].recordedDate}`
   const comment = document.getElementById('videoComment');
