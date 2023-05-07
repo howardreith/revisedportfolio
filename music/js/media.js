@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  inEveryAge: {
+    filename: 'In Every Age',
+    title: 'In Every Age',
+    musical: 'Titanic',
+    publishYear: '1997',
+    recordedDate: '05/07/2023'
+  },
   // whyGodWhy: {
   //   filename: 'Why God Why',
   //   title: 'Why God? Why?',
