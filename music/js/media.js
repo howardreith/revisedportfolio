@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  suddenlySeymour: {
+    filename: 'Suddenly Seymour',
+    title: 'Suddenly Seymour',
+    musical: 'Little Shop of Horrors',
+    publishYear: '1982',
+    recordedDate: '05/08/2023'
+  },
   inEveryAge: {
     filename: 'In Every Age',
     title: 'In Every Age',
