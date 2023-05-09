@@ -8,7 +8,8 @@ const mediaKeyMap = {
     title: 'Suddenly Seymour',
     musical: 'Little Shop of Horrors',
     publishYear: '1982',
-    recordedDate: '05/08/2023'
+    recordedDate: '05/08/2023',
+    comment: 'Thank you to Maisie for giving me permission to sing with her video. Her Youtube channel is https://www.youtube.com/@maisiewaller'
   },
   inEveryAge: {
     filename: 'In Every Age',
