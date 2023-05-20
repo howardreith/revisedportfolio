@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  luckBeALady: {
+    filename: 'Luck Be a Lady',
+    title: 'Luck Be a Lady',
+    musical: 'Guys and Dolls',
+    publishYear: '1950',
+    recordedDate: '05/20/2023'
+  },
   suddenlySeymour: {
     filename: 'Suddenly Seymour',
     title: 'Suddenly Seymour',
