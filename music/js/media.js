@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  intoTheFire: {
+    filename: 'Into the Fire',
+    title: 'Into the Fire',
+    musical: 'The Scarlet Pimpernel',
+    publishYear: '1997',
+    recordedDate: '07/12/2023'
+  },
   luckBeALady: {
     filename: 'Luck Be a Lady',
     title: 'Luck Be a Lady',
