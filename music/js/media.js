@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  ifICantLoveHer: {
+    filename: "If I Can't Love Her",
+    title: "If I Can't Love Her",
+    musical: 'Beauty and the Beast',
+    publishYear: '1994',
+    recordedDate: '07/22/2023'
+  },
   intoTheFire: {
     filename: 'Into the Fire',
     title: 'Into the Fire',
