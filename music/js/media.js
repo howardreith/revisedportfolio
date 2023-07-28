@@ -3,6 +3,13 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 });
 
 const mediaKeyMap = {
+  settleForMe: {
+    filename: "Settle for Me",
+    title: "Settle for Me",
+    musical: 'Crazy Ex-Girlfriend',
+    publishYear: '2015',
+    recordedDate: '07/28/2023'
+  },
   ifICantLoveHer: {
     filename: "If I Can't Love Her",
     title: "If I Can't Love Her",
