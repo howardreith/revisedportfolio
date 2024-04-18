@@ -46,16 +46,6 @@ document.write('\
                                     </div>\
                                 </div>\
                             </div>\
-                            \
-                            <div class="spost clearfix">\
-                                <div class="entry-c">\
-                                    <div class="entry-title">\
-                                        <h4><a href="the-guyde-introduction.html">\
-                                            The Guyde - Introduction\
-                                        </a></h4>\
-                                    </div>\
-                                </div>\
-                            </div>\
                         </div>\
                     </div>\
                     <div class="tab-content clearfix" id="tabs-2">\
@@ -93,18 +83,6 @@ document.write('\
                                     </div>\
                                     <ul class="entry-meta">\
                                         <li>August 9, 2020</li>\
-                                    </ul>\
-                                </div>\
-                            </div>\
-                            <div class="spost clearfix">\
-                                <div class="entry-c">\
-                                    <div class="entry-title">\
-                                        <h4><a href="the-guyde-introduction.html">\
-                                            The Guyde - Introduction\
-                                        </a></h4>\
-                                    </div>\
-                                    <ul class="entry-meta">\
-                                        <li>9th August 2020</li>\
                                     </ul>\
                                 </div>\
                             </div>\
