@@ -7447,7 +7447,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .feature-box .fbox-icon {
 	display: block;
-	position: absolute;
+	/* position: absolute; */
 	width: 64px;
 	height: 64px;
 	top: 0;
