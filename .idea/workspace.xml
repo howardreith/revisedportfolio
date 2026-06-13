@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a707de7-8820-43fd-adbb-cac18d366b4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/docs/howard-reith-software-resume-2026.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/performance/gatsby-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/performance/gatsby-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/performance/gatsby-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/performance/tuck-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/performance/tuck-6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Howard Reith Software Engineer.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/docs/howard-reith-software-engineer.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/docs/howard-reith-software-resume-2025.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/docs/howie-reith-theatrical-resume-2026.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/docs/howie-reith-theatrical-resume-2026.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/performance/gatsby-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/performance/gatsby-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/performance/gatsby-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/performance/tuck-portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/media/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/software/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781267662374</updated>
-      <workItem from="1781267663437" duration="9072000" />
+      <workItem from="1781267663437" duration="10376000" />
     </task>
     <servers />
   </component>
