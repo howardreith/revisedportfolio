@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /guyde/
+Disallow: /music/
+
+Sitemap: https://howiereith.com/sitemap.xml
